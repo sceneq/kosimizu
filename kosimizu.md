@@ -84,13 +84,13 @@ $$('#unitTbl > .unit').map(s => {
 - [共通,輿水幸子,自称・カンペキ ボイス集](http://www.nicovideo.jp/watch/sm28632412)
 - [輿水幸子 特訓エピソード](https://www.youtube.com/watch?v=9pkp54HzoN4)
 - [自称・カンペキ 特訓エピソード](http://www.nicovideo.jp/watch/sm27801211)
-- [自称・カワイイ ボイス集](http://www.nicovideo.jp/watch/sm28743607) [Youtube](https://www.youtube.com/watch?v=BHC4wNIR3jg)
+- [自称・カワイイ ボイス集](http://www.nicovideo.jp/watch/sm28743607)
 - [自称・カワイイ 特訓エピソード](https://www.youtube.com/watch?v=d8m7Aqb_0tA)
-- [自称・スウィートヒロイン ボイス集](http://www.nicovideo.jp/watch/sm29734120) [Youtube](https://www.youtube.com/watch?v=0o5wUTUsRRs)
+- [自称・スウィートヒロイン ボイス集](http://www.nicovideo.jp/watch/sm29734120)
 - [自称・スウィートヒロイン 特訓エピソード](http://www.nicovideo.jp/watch/sm29736177)
-- [Lunatic Show ボイス集](http://www.nicovideo.jp/watch/sm30471058) [Youtube](https://www.youtube.com/watch?v=vAs90zTUlh0)
+- [Lunatic Show ボイス集](http://www.nicovideo.jp/watch/sm30471058)
 - [Lunatic Show 特訓エピソード](https://www.youtube.com/watch?v=H92IE4Wi5l0)
-- [自称・パーリーピーポー ボイス集](https://www.youtube.com/watch?v=n0igLWZwzCU)
+- 自称・パーリーピーポー ボイス集?
 - [自称・パーリーピーポー 特訓エピソード](https://www.youtube.com/watch?v=_Kxqh5ZO_98)
 
 ## メモリアル
