@@ -232,9 +232,9 @@ $$('#unitTbl > .unit').map(s => {
 - [輿水幸子(ﾚｼﾞｪﾝﾄﾞ)](http://seesaawiki.jp/mnga_bahamut/d/%CD%C1%BF%E5%B9%AC%BB%D2%20%28%8E%DA%8E%BC%8E%DE%8E%AA%8E%DD%8E%C4%8E%DE%29)
 - ![https://twitter.com/Otanakan17/status/974648988174401537](https://pbs.twimg.com/media/DYamFLYU8AI0uuU.jpg)
 - ![https://twitter.com/Otanakan17/status/974648988174401537](https://pbs.twimg.com/media/DYamFLbU8AA2pDg.jpg)
-- [バハ幸子限界突破](https://twitter.com/halogen17/status/807221715809878018)
-- [ボイス -- 輿水幸子(ﾚｼﾞｪﾝﾄﾞ)にある分のみ](https://twitter.com/sora_sky635/status/808175693561352192)
-- [バハムートコラボイベ幸子信頼度MAX -- ↑より高音質](https://twitter.com/halogen17/status/807219096429301760)
+- [バハ幸子限界突破](https://twitter.com/halogen17/status/807221715809878018/video/1)
+- [ボイス -- 輿水幸子(ﾚｼﾞｪﾝﾄﾞ)にある分のみ](https://twitter.com/sora_sky635/status/808175693561352192/video/1)
+- [バハムートコラボイベ幸子信頼度MAX -- ↑より高音質](https://twitter.com/halogen17/status/807219096429301760/video/1)
 
 
 # 映り込み
@@ -257,7 +257,7 @@ $$('#unitTbl > .unit').map(s => {
 - [パステルピンクな恋の「可愛い」を検証してみた](http://www.nicovideo.jp/watch/sm29867426)
 - [【水も滴る】ボイス付き輿水幸子登場！【いいさちこ♪】](http://www.nicovideo.jp/watch/sm20819232)
 - [モバマス　輿水幸子からバレンタインチョコレート](http://www.nicovideo.jp/watch/sm20123744)
-- [「アイドルマスターシンデレラガールズ」オープニング 実写版](http://www.nicovideo.jp/watch/sm25567960)
+- [幸子の貴重なカワイイ変身シーン！](https://twitter.com/yukkieeeeeen/status/896623245838893056/video/1)
 - ![修正前のサイン](https://image.gamer.ne.jp/news/2012/20121219/00135ff62f37fcbe2d73303b5ce8c57757fb/o/2.jpg)
 - ![LINEスタンプ](https://stickershop.line-scdn.net/stickershop/v1/sticker/17093919/IOS/sticker_animation@2x.png)
 - ![商品化総選挙](http://imas-cg-touhyoukikaku.com/wp/wp-content/uploads/2018/04/yamanasi.jpg)
@@ -287,7 +287,7 @@ $$('#unitTbl > .unit').map(s => {
 - [MAGIC HOUR #8](http://www.nicovideo.jp/watch/sm25754722)
 
 ## 壁パネル
-- [四つ葉のクローバーを見つける](https://twitter.com/ydn_112/status/775206661921263616)
+- [四つ葉のクローバーを見つける](https://twitter.com/ydn_112/status/775206661921263616/video/1)
 - [四つ葉のクローバーが見つからない](http://www.nicovideo.jp/watch/sm29658104)
 
 ## 広告
