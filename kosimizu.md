@@ -162,37 +162,7 @@ $$('#unitTbl > .unit').map(s => {
 - [モバマス　アイドル強化合宿クレーン幸子](http://www.nicovideo.jp/watch/sm19841666)
 
 ## ユニットの掛け合い
-./unit.txtを参照
-
--  [イベント第040弾「ドリームLIVEフェスティバル」カワイイボクと142's](http://seesaawiki.jp/teruko_hoshi/d/%A5%AB%A5%EF%A5%A4%A5%A4%A5%DC%A5%AF%A4%C8142%27s#content_block_8)
--  [イベント第044弾「アイドルLiveツアーinハワイ」カワイイボクと142's](http://seesaawiki.jp/teruko_hoshi/d/%A5%AB%A5%EF%A5%A4%A5%A4%A5%DC%A5%AF%A4%C8142%27s#content_block_8#content_block_14)
--  [イベント第052弾「アイドルサバイバル 秋の大運動会」ソロユニット](http://seesaawiki.jp/imascg/d/%cd%c1%bf%e5%b9%ac%bb%d2#content_block_65)
--   イベント第053弾「LIVEツアーカーニバル in スペースワールド」リトルエンジェルス(輿水幸子のセリフなし)
--   イベント第058弾「プロダクション対抗！！ドリームLIVEフェスティバル」ホーリープレゼント(輿水幸子のセリフなし)
--  [イベント第061弾「第3回アイドルLIVEロワイヤル」ファニーデビル](https://www18.atwiki.jp/imas_cg/pages/572.html#id_c0be1da7)
--  [イベント第079弾「第7回ドリームLIVEフェスティバル」バラエティマーメイド](https://syuko.nohql.net/mobage/events/%E7%AC%AC7%E5%9B%9E%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0live%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB#%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89_%E6%97%A5%E9%87%8E%E8%8C%9C_%E8%BC%BF%E6%B0%B4%E5%B9%B8%E5%AD%90_%E5%A1%A9%E8%A6%8B%E5%91%A8%E5%AD%90)
--  [イベント第098弾「第8回アイドルLIVEロワイヤル」瑞樹 from PM ＆幸子](http://seesaawiki.jp/imascg/d/%a1%ce%c7%ae%be%f0%a4%ce%cb%e2%bd%f7%a1%cf%c0%ee%c5%e7%bf%f0%bc%f9#content_block_36)
--  [イベント第100弾「第10回サンタDEドリームLIVEフェスティバル」ホーリープレゼント](http://seesaawiki.jp/imascg/d/%A1%CE%C0%BB%CC%EB%A4%CE%A5%D7%A5%EC%A5%BC%A5%F3%A5%C8%A1%CF%BE%AE%C6%FC%B8%FE%C8%FE%CA%E6#content_block_28)
--  [イベント第102弾「LIVEツアーカーニバル 幻想公演 栄光のシュヴァリエ」闇のアンデッド](http://seesaawiki.jp/teruko_hoshi/d/%A5%AB%A5%EF%A5%A4%A5%A4%A5%DC%A5%AF%A4%C8142%27s#content_block_20)
--  [イベント第104弾「第9回アイドルLIVEロワイヤル」振袖の姫君](http://seesaawiki.jp/imascg/d/%a1%ce%a4%cb%a4%e5%a1%bc%a4%a4%a4%e4%a1%bc%a1%cf%bb%d4%b8%b6%bf%ce%c6%e0#content_block_36)
-- ![イベント第114弾「第11回アイドルLIVEロワイヤル」KBYD](https://pbs.twimg.com/media/C98RCK2VYAAaag2.jpg)
--  [イベント第128弾「LIVEツアーカーニバル 青春公演 シング・ア・ソング」カナリア学園水泳部](http://seesaawiki.jp/nene_kurihara/d/%C2%BE%A4%CE%A5%A2%A5%A4%A5%C9%A5%EB%A4%C8%A4%CE%B4%D8%A4%EF%A4%EA#8)
--  [イベント第128弾「LIVEツアーカーニバル 青春公演 シング・ア・ソング」紺衣の乙姫](http://seesaawiki.jp/nene_kurihara/d/%C2%BE%A4%CE%A5%A2%A5%A4%A5%C9%A5%EB%A4%C8%A4%CE%B4%D8%A4%EF%A4%EA#18)
-- ![イベント第144弾「第17回ドリームLIVEフェスティバル」紅葉温泉LIVE2015](https://pbs.twimg.com/media/DO5UV_iUEAAIIVw.jpg)
--  [イベント第149弾「アイドルLIVEロワイヤル クリスマスSP」カワイイボクとキューティーサンタ](http://seesaawiki.jp/miho-kohinata/d/%A5%AB%A5%EF%A5%A4%A5%A4%A5%DC%A5%AF%A4%C8%A5%AD%A5%E5%A1%BC%A5%C6%A5%A3%A1%BC%A5%B5%A5%F3%A5%BF#content_block_8)
-- ![イベント第152弾「ドリームLIVEフェスティバル 新春SP」開運暴走ガールズ](http://blog-imgs-86.fc2.com/7/t/o/7toriaezu/toriaezu6_889R.jpg)
-- ![イベント第180弾「第2回水着DEドリームLIVEフェスティバル」スクールスイマーズ](http://livedoor.blogimg.jp/cgunit/imgs/8/2/82f58d24.jpg)
--  [イベント第182弾「LIVEツアーカーニバル 怪奇公演 心霊探偵の事件簿」湯けむりゆうれい](http://seesaawiki.jp/kaede_t614/d/%C5%F2%A4%B1%A4%E0%A4%EA%A4%E6%A4%A6%A4%EC%A4%A4)
--  [イベント第192弾「第25回ドリームLIVEフェスティバル」 カワスウィーティーなボクはぁと(仮)](http://seesaawiki.jp/sugarheart_dressroom/d/%A5%AB%A5%EF%A5%B9%A5%A6%A5%A3%A1%BC%A5%C6%A5%A3%A1%BC%A4%CA%A5%DC%A5%AF%A4%CF%A4%A1%A4%C8%A1%CA%B2%BE%A1%CB#content_block_6)
-- ![イベント第200弾「第2回ドリームLIVEフェスティバル 新春SP」招き巫女三景](https://pbs.twimg.com/media/C1Flis5UAAA_ltF.jpg)
-- ![イベント第212弾「ドリームLIVEフェスティバル スプリングSP」いっしょに♪ふわもこフレンズ](http://livedoor.blogimg.jp/sr_cobra/imgs/b/2/b265c5bf.jpg)
--  [イベント第224弾「ドリームLIVEフェスティバル 七夕SP」カワイイボクと犬飼いアイドル](http://seesaawiki.jp/imascg/d/%a1%ce%a5%d7%a5%ea%a5%c6%a5%a3%a1%bc%a5%cb%a5%e5%a1%bc%a5%a4%a5%e4%a1%bc%a1%cf%c2%c0%c5%c4%cd%a5#content_block_33)
--  [イベント第228弾「第3回水着DEドリームLIVEフェスティバル」紺衣の乙姫](http://seesaawiki.jp/imascg/d/%a1%ce%bf%e5%ba%cc%a4%ce%b2%b5%c9%b1%a1%cf%b7%aa%b8%b6%a5%cd%a5%cd#content_block_38)
--  [イベント第240弾「第33回ドリームLIVEフェスティバル」ヒロイックエンジェル](http://seesaawiki.jp/imascg/d/%a1%ce%a5%b8%a5%e3%a5%b9%a5%c6%a5%a3%a5%b9%a5%d6%a5%ec%a5%a4%a5%ba%a1%cf%c6%ee%be%f2%b8%f7#content_block_33)
--  [イベント第248弾「第3回ドリームLIVEフェスティバル 新春SP」Many Doggies](http://seesaawiki.jp/imascg/d/%a1%ce%a4%e2%a4%d5%a4%e2%a4%d5%a4%a6%a4%a3%a4%f3%a4%bf%a1%bc%a1%cf%bb%d4%b8%b6%bf%ce%c6%e0#content_block_36)
--  [イベント第260弾「第2回花見DEドリームLIVEフェスティバル」カワイイボクと142's](http://seesaawiki.jp/teruko_hoshi/d/%A5%AB%A5%EF%A5%A4%A5%A4%A5%DC%A5%AF%A4%C8142%27s#content_block_26)
--  [6周年クリスマスケーキプレゼントキャンペーン カワイイボクと142's](http://seesaawiki.jp/teruko_hoshi/d/%A5%AF%A5%EA%A5%B9%A5%DE%A5%B9#content_block_19)
-
+[./unit.txt](./unit.txt)を参照
 
 
 # CDとか 一覧
@@ -291,6 +261,10 @@ $$('#unitTbl > .unit').map(s => {
 - [四つ葉のクローバーが見つからない](http://www.nicovideo.jp/watch/sm29658104)
 
 ## 広告
+### TVCM
+- [デレステ アイドルマスターシンデレラガールズ スターライトステージ シンデレラガールズ劇場 ver. CM 2](https://www.youtube.com/watch?v=ByBcwjEgB4E)
+
+### 山手線
 <!-- ソース:http://wikiwiki.jp/onj-deresute/ -->
 
 - ![2016.06.07 山手線・目白駅](https://wikiwiki.jp/onj-deresute/?plugin=attach&refer=%E5%B1%B1%E6%89%8B%E7%B7%9A%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E5%BA%83%E5%91%8A%E6%8E%A2%E8%A8%AA%E8%A8%98%EF%BC%882016.6-7%EF%BC%89&openfile=S__1966083.jpg)
