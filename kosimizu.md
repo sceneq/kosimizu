@@ -1,8 +1,13 @@
 末尾? : 存在するけど上がっていない
 
+
+
 # サイト集
 ## [アイドルマスターシンデレラガールズ カードギャラリー](http://imas.gamedbs.jp/cg/)
 - [モバマスデレステのイラスト,劇場,ローディング画面,デレステ劇場,スタンプ](http://imas.gamedbs.jp/cg/idol/detail/50)
+```
+$('.headline:contains("シンデレラガールズ劇場") + div > div > div > a').toArray().map(a => (a.download=`${a.title}.jpg`,a)).map(a =>(a.addEventListener("click", e=>e.stopPropagation()),a)).map(a => a.click());
+```
 
 ## [DereSute Wiki](https://hpt.moe/deresute/)
 - [デレステコミュのセリフとか](https://hpt.moe/deresute/index.php?search=Sachiko&title=Special%3ASearch&fulltext=Search)
@@ -94,12 +99,11 @@ $$('#unitTbl > .unit').map(s => {
 - [自称・パーリーピーポー 特訓エピソード](https://www.youtube.com/watch?v=_Kxqh5ZO_98)
 
 ## メモリアル
-- [輿水幸子メモリアル1](https://www.youtube.com/watch?v=zy_btQ2Wa2U)
-- 輿水幸子メモリアル2?
-- 輿水幸子メモリアル3?
-- 輿水幸子メモリアル4?
-- 輿水幸子メモリアル5?
-
+- [輿水幸子メモリアル1](https://www.youtube.com/watch?v=Xg1i9XciG2o)
+- [輿水幸子メモリアル2](https://www.youtube.com/watch?v=5BD95Ao_ZvE)
+- [輿水幸子メモリアル3](https://www.youtube.com/watch?v=kgu5_N5r7vA)
+- [輿水幸子メモリアル4](https://www.youtube.com/watch?v=o0OZzED3aaE)
+- [輿水幸子メモリアル5](https://www.youtube.com/watch?v=ijva2heNAz4)
 
 ## イベント
 - [パステルピンクな恋](http://www.nicovideo.jp/watch/sm28552078)
@@ -123,12 +127,10 @@ $$('#unitTbl > .unit').map(s => {
 - ![BEYOND THE STARLIGHT Anniversary for Everyone!!](http://imas.gamedbs.jp/cgss/images_bg/Bg_6021.jpg)
 
 ## アイテム
-
 ### ポスター
-- ![①](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1473797053046.jpg)
-- ![②](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1475092397008.jpg)
-- ![③](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1499533756002.jpg)
-
+- ![①](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1473797053046.jpg "カワイイ幸子のために作られたステージで歌う一枚。 自分のカワイさに酔ってうっとりとしている。")
+- ![②](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1475092397008.jpg "箱から、あざやかに転げ落ちた時の1枚もあるが、それは後々のバラエティ番組用に、温存しておくことになった。")
+- ![③](https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/wikidb_img/1499533756002.jpg "大自然をも魅了してしまう彼女のカワイさに、 全国の天気予報士も注目している(幸子調べ)。")
 
 
 # アイドルマスター シンデレラガールズ モバゲー
@@ -206,6 +208,9 @@ $$('#unitTbl > .unit').map(s => {
 - [ボイス -- 輿水幸子(ﾚｼﾞｪﾝﾄﾞ)にある分のみ](https://twitter.com/sora_sky635/status/808175693561352192/video/1)
 - [バハムートコラボイベ幸子信頼度MAX -- ↑より高音質](https://twitter.com/halogen17/status/807219096429301760/video/1)
 
+### 書き起こし
+[./collabo.md](./collabo.md)
+
 
 # 映り込み
 - ![[ﾌﾞﾙｰｻﾏｰﾍﾌﾞﾝ]塩見周子](http://imas.gamedbs.jp/cg/image_sp/card/l/02e831b53db390644097ce0541e224d7.jpg)
@@ -224,7 +229,6 @@ $$('#unitTbl > .unit').map(s => {
 
 
 # その他
-- [パステルピンクな恋の「可愛い」を検証してみた](http://www.nicovideo.jp/watch/sm29867426)
 - [【水も滴る】ボイス付き輿水幸子登場！【いいさちこ♪】](http://www.nicovideo.jp/watch/sm20819232)
 - [モバマス　輿水幸子からバレンタインチョコレート](http://www.nicovideo.jp/watch/sm20123744)
 - [幸子の貴重なカワイイ変身シーン！](https://twitter.com/yukkieeeeeen/status/896623245838893056/video/1)
@@ -274,3 +278,6 @@ $$('#unitTbl > .unit').map(s => {
 ## モバマスカフェの色紙
 - ![樫葉ハルキ 千葉サドル](http://ruminar.c.blog.so-net.ne.jp/_images/blog/_f66/ruminar/DSC00713-c9be4.jpg)
 - ![木吉紗](https://stat.ameba.jp/user_images/20130304/20/toyonoka-asagi/d3/d4/j/o0480036012443987236.jpg)
+
+# todo
+総選挙セリフ
