@@ -14,6 +14,7 @@
 # /image/derepo/{icon_path}
 # /image/derepo/{img_path}
 
+# favorite_statusはいらない
 # signがわかないので手抜き
 #DEREPO_URL = "https://apis.game.starlight-stage.jp/derepo/index?viewer_id={}&time={}&sign={}"
 
