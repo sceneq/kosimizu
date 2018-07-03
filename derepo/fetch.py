@@ -59,9 +59,11 @@ def a(paging_time):
 
 
 import json
+POSTS_PER_RESPONSE = 50
 try:
     last_posts = json.load(open(OUTPUT_JSON_PATH, "r"))
-    break_id = max(map(lambda p: p["id"], last_posts))
+    break_id = max(map(lambda p: p["id"],
+                       last_posts))  # - (POSTS_PER_RESPONSE + 1)
 except FileNotFoundError:
     last_posts = []
     break_id = None
@@ -81,7 +83,7 @@ while True:
         break
 
     min_id = min(map(lambda p: p["id"], derepo_json["list"]))
-    if break_id is not None and min_id <= break_id:
+    if break_id is not None and min_id < break_id:
         print("break: {} <= {}".format(min_id, break_id))
         break
 
