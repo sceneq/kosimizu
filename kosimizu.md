@@ -65,6 +65,7 @@ $$('#unitTbl > .unit').map(s => {
 ## 劇場
 - テレビ放送 第12話 水着の回② -- カワイイは隠せない
 - テレビ放送 第20話 ユニットの回  -- ピトォ…,次回予告
+- テレビ放送 第27話 本気の勝負だ！の回 -- 全編,次回予告
 
 ## CM
 - [メッセージ 30秒](http://www.nicovideo.jp/watch/sm21111419)
@@ -179,7 +180,7 @@ $$('#unitTbl > .unit').map(s => {
 - [THE IDOLM@STER CINDERELLA MASTER EVERMORE](http://columbia.jp/idolmaster/COCC-17282.html) ゴキゲンParty Night
 - [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 12 命燃やして恋せよ乙女](http://columbia.jp/idolmaster/COCC-17152.html) Lunatic Show
 - [THE IDOLM@STER CINDERELLA MASTER イリュージョニスタ！](http://columbia.jp/idolmaster/imasnews/180202.html) イリュージョニスタ！(M＠STER VERSION),イリュージョニスタ！（GAME VERSION）
-
+- [THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! いとしーさー♥](http://columbia.jp/prod-info/COCC-17501/)
 
 
 # グッズ
@@ -278,6 +279,3 @@ $$('#unitTbl > .unit').map(s => {
 ## モバマスカフェの色紙
 - ![樫葉ハルキ 千葉サドル](http://ruminar.c.blog.so-net.ne.jp/_images/blog/_f66/ruminar/DSC00713-c9be4.jpg)
 - ![木吉紗](https://stat.ameba.jp/user_images/20130304/20/toyonoka-asagi/d3/d4/j/o0480036012443987236.jpg)
-
-#TODO
-[いとしーさー♥](https://www.youtube.com/watch?v=kTE9obf3mOk)
