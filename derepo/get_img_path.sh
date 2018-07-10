@@ -14,6 +14,7 @@ images=$(
 	cat ./derepo.json | \
 	jq -r ". | map(select(.chara_name == \"$CHARACTER_NAME\") | .img_path ) | join(\" \")"
 )
+	#jq -r ". | map(. | .img_path ) | join(\" \")"
 
 r=()
 for image_name in $images; do
