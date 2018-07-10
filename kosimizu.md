@@ -46,6 +46,9 @@ $$('#unitTbl > .unit').map(s => {
 }).map(o => `https://www.google.co.jp/search?q=${o.event}+${o.unit}`).join("\n");
 ```
 
+## [THE IDOLM@STER 関連データ・画像集](http://homepage3gore.game.coocan.jp/imas/)
+- [シンデレラガールズ劇場一覧](http://homepage3gore.game.coocan.jp/imas/mobage_data2.html)
+
 
 
 # アニメ
@@ -73,10 +76,13 @@ $$('#unitTbl > .unit').map(s => {
 
 
 
-# コミカライズ
+# コミカライズ(TODO)
+<!-- ソース http://homepage3gore.game.coocan.jp/imas/mobage_data2.html -->
 - wwg
 - シンデレラガールズ劇場 拡大版 第1話【ｱﾆﾊﾞｰｻﾘｰ編】 9P 4コマ目
-- todo
+- シンデレラガールズ劇場 単行本描き下ろし 1-3 ボクのチェックは厳しいですよ！
+- シンデレラガールズ劇場 単行本描き下ろし 2-1 さがしてみよう
+- シンデレラガールズ劇場 単行本描き下ろし 7-3 たまには…いいです
 
 ## アイドルマスター シンデレラガールズ あんさんぶる!
 - ![あんさんぶる他シンデレラガールズのコミックス３種のゲーマーズ 連動購入特典Ｂ３ポスター](http://kura2.photozou.jp/pub/541/562541/photo/192971874_624.v1517634107.jpg)
