@@ -57,6 +57,9 @@ $$('#unitTbl > .unit').map(s => {
 - [アイドルマスターシンデレラガールズアニメPV](http://www.nicovideo.jp/watch/sm22347105)
 - [「アイドルマスター シンデレラガールズ」アニメ化決定PV](https://www.youtube.com/watch?v=_noaVt8P3aI)(上のやつと同じ絵だけど、文字で隠れている)
 - [登場シーンまとめ](http://www.nicovideo.jp/mylist/47835233)
+	- 4話:中盤のポスター
+	- 13話:雷に怯える,NGライブ中とGoin'!!!終わりに映る
+	- 22話: 最後らへん映ってた気がする
 - [予告](http://www.nicovideo.jp/watch/sm25384541)
 - [シンデレラガールズ第18話 ED「Heart Voice」by CANDY ISLAND with 輿水幸子](http://www.nicovideo.jp/watch/sm26933503)
 
@@ -157,6 +160,7 @@ $$('#unitTbl > .unit').map(s => {
 - 自称・ｶﾜｲｲ花嫁 ボイス?
 - [自称・ｶﾜｲｲ花嫁 思い出エピソード](https://www.youtube.com/watch?v=GpFCI1mXf8Y)
 - 自称・傾国の美女 ボイス?
+- [自称・傾国の美女 思い出エピソード](https://www.youtube.com/watch?v=II60Hj7KFqU)
 
 ## イベント
 - [きらめくオーロラ紀行 - 藤原肇情報Wiki](http://seesaawiki.jp/hajimedear/d/%A4%AD%A4%E9%A4%E1%A4%AF%A5%AA%A1%BC%A5%ED%A5%E9%B5%AA%B9%D4)
@@ -172,6 +176,16 @@ $$('#unitTbl > .unit').map(s => {
 
 ## ユニットの掛け合い
 [./unit.txt](./unit.txt)を参照
+
+## ぷちエピソード
+[Vo1](https://www.youtube.com/watch?v=YfbtvHuPTyk)
+[Vo2](https://www.youtube.com/watch?v=Qu-RPC1sJ0A)
+[Da1](https://www.youtube.com/watch?v=RsDK_nknWZ4)
+[Da2](https://www.youtube.com/watch?v=4_YEyUVixhs)
+[Vi1](https://www.youtube.com/watch?v=9DFGn7_mo8E)
+[Vi2](https://www.youtube.com/watch?v=vbrWSS4Tj3U)
+[st1](https://www.youtube.com/watch?v=ZgtspY9WNck)
+[st2](https://www.youtube.com/watch?v=gzgYpeBMdNA)
 
 
 # CDとか 一覧
@@ -225,12 +239,12 @@ $$('#unitTbl > .unit').map(s => {
 - ![[ｱﾆﾊﾞｰｻﾘｰﾌｫｰﾕｰ]島村卯月+](http://imas.gamedbs.jp/cg/image_sp/card/l/616664284f3ddf53a42d0b626133a9f4.jpg) <!-- もっとでかいのあるはず(https://i.imgur.com/tFjwuSv.jpeg) -->
 - ![[ｽﾍﾟｰｽ☆ｳｻﾐﾝ]安部菜々](http://imas.gamedbs.jp/cg/image_sp/card/l/51c183ef6846a54a06aab46bf0a0fa02.jpg)
 - ![[パステルピンクな恋]三村かな子](http://imas.gamedbs.jp/cgss/images/1W2zpETrhfnxHqISqzAplQSY8SVy4l0LGIG1Tr6P520.jpg)
-- ![[パステルピンクな恋]小早川紗枝＋](http://imas.gamedbs.jp/cgss/images/RSMkvsj0XsccKv-5Kdfh7grDWGuy1ExKCY-Zl8Zk12c.jpg?1447915675)
-- ![[ドルチェ・クラシカ]三村かな子](http://imas.gamedbs.jp/cgss/images/95x6AfDuKI7_mfKg-HKKt3A212B3d1bESFCzDtNpfDk.jpg?1447915675)
-- ![[Lunatic Show]白坂小梅](http://imas.gamedbs.jp/cgss/images/JHkqPV0TiS3aKpwGGgn_BqwNWzgJ2CmUeEzN6PKw428.jpg?1447915675)
-- ![[Lunatic Show]白坂小梅＋](http://imas.gamedbs.jp/cgss/images/1TiaoXA4aSqczRGVvqEXnX0UMiBijq7qokEdifaQIrk.jpg?1447915675)
-- ![[イリュージョニスタ ! ]佐久間まゆ](http://imas.gamedbs.jp/cgss/images/TMu1HAqkHBFqtTs2aIlLXXbesbQEKj4qDCLkgYJQ-ps.jpg?1447915675)
-- ![[イリュージョニスタ ! ]鷺沢文香＋](http://imas.gamedbs.jp/cgss/images/d6rZkSm0JNqlCI4ZgqtILoB4XWc9sbIe0putFrb0X5c.jpg?1447915675)
+- ![[パステルピンクな恋]小早川紗枝＋](http://imas.gamedbs.jp/cgss/images/RSMkvsj0XsccKv-5Kdfh7grDWGuy1ExKCY-Zl8Zk12c.jpg)
+- ![[ドルチェ・クラシカ]三村かな子](http://imas.gamedbs.jp/cgss/images/95x6AfDuKI7_mfKg-HKKt3A212B3d1bESFCzDtNpfDk.jpg)
+- ![[Lunatic Show]白坂小梅](http://imas.gamedbs.jp/cgss/images/JHkqPV0TiS3aKpwGGgn_BqwNWzgJ2CmUeEzN6PKw428.jpg)
+- ![[Lunatic Show]白坂小梅＋](http://imas.gamedbs.jp/cgss/images/1TiaoXA4aSqczRGVvqEXnX0UMiBijq7qokEdifaQIrk.jpg)
+- ![[イリュージョニスタ ! ]佐久間まゆ](http://imas.gamedbs.jp/cgss/images/TMu1HAqkHBFqtTs2aIlLXXbesbQEKj4qDCLkgYJQ-ps.jpg)
+- ![[イリュージョニスタ ! ]鷺沢文香＋](http://imas.gamedbs.jp/cgss/images/d6rZkSm0JNqlCI4ZgqtILoB4XWc9sbIe0putFrb0X5c.jpg)
 - ![[メリー・メリー・ホワイト]緒方智絵里](http://imas.gamedbs.jp/cgss/images/771-Yc2ufpmakHvEzcY9n5Uwcs07WX9LrxLHamjK4XM.jpg)
 
 
@@ -278,10 +292,18 @@ $$('#unitTbl > .unit').map(s => {
 ### 山手線
 <!-- ソース:http://wikiwiki.jp/onj-deresute/ -->
 
-- ![2016.06.07 山手線・目白駅](https://wikiwiki.jp/onj-deresute/?plugin=attach&refer=%E5%B1%B1%E6%89%8B%E7%B7%9A%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E5%BA%83%E5%91%8A%E6%8E%A2%E8%A8%AA%E8%A8%98%EF%BC%882016.6-7%EF%BC%89&openfile=S__1966083.jpg)
-- ![2016.07.08 山手線・目白駅](https://wikiwiki.jp/onj-deresute/?plugin=attach&refer=%E5%B1%B1%E6%89%8B%E7%B7%9A%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E5%BA%83%E5%91%8A%E6%8E%A2%E8%A8%AA%E8%A8%98%EF%BC%882016.7-8%EF%BC%89&openfile=S__540690.jpg)
-- ![2017.07.08 山手線・原宿駅](https://wikiwiki.jp/onj-deresute/?plugin=attach&refer=%E5%B1%B1%E6%89%8B%E7%B7%9A%E3%83%87%E3%83%AC%E3%82%B9%E3%83%86%E5%BA%83%E5%91%8A%E6%8E%A2%E8%A8%AA%E8%A8%98%EF%BC%882017.7-8%EF%BC%89&openfile=S__3563530.jpg)
+- ![2016.06.07 山手線・目白駅](https://i.imgur.com/FrRkxqE.jpg)
+- ![2016.07.08 山手線・目白駅](https://i.imgur.com/c0Jz8Tl.jpg)
+- ![2017.07.08 山手線・原宿駅](https://i.imgur.com/2ia1zRj.jpg)
 
 ## モバマスカフェの色紙
 - ![樫葉ハルキ 千葉サドル](http://ruminar.c.blog.so-net.ne.jp/_images/blog/_f66/ruminar/DSC00713-c9be4.jpg)
 - ![木吉紗](https://stat.ameba.jp/user_images/20130304/20/toyonoka-asagi/d3/d4/j/o0480036012443987236.jpg)
+
+# TODO
+![a](http://homepage3gore.game.coocan.jp/imas/imascg/senkyo6th/sachiko.jpg)
+![a](http://homepage3gore.game.coocan.jp/imas/imascg/senkyo7th/sachiko.jpg)
+U149
+ハピガ
+劇場3
+

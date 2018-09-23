@@ -5,40 +5,59 @@
 
 IMAGE_DIR=./img
 VIDEO_DIR=./vid
-MDPATH=~/memo/im/kosimizu.md
+MDPATH=./kosimizu.md
 
+DEREOP_IMG_DIR="$IMAGE_DIR/derepo"
 VIDEO_OUTPUT="./$VIDEO_DIR/%(title)s-%(id)s.%(ext)s"
-DL="./youtube-dl.exe -i --min-sleep-interval 1 --max-sleep-interval 6"
+VIDEO_DL="./youtube-dl.exe -i --min-sleep-interval 1 --max-sleep-interval 6"
 
-function image(){
-	mkdir -p $IMAGE_DIR
-	pandoc $MDPATH > a.html
-	python -m http.server &
-	wget \
-		-N \
-		-nd -r -l 1 -P $IMAGE_DIR -A jpeg,jpg,bmp,gif,png,apng -H -e robots=off http://localhost:8000/a.html
-}
+image(){
+	mkdir -p "$IMAGE_DIR"
+	IMAGELINKS=($(pandoc "$MDPATH" | pup 'img attr{src}'))
+	IMAGENAMES=($(echo "${IMAGELINKS[@]}" | perl -pe 's/https?:\/{2}//g;' -pe 's/\//_/g;'))
 
-function video(){
-	mkdir -p $VIDEO_DIR
-	VIDLINKS=$(pandoc $MDPATH | pup 'a[href*="youtube.com/watch"], a[href*="/video/1"] attr{href}')
-	$DL $VIDLINKS -o $VIDEO_OUTPUT 2>error
-
-	VIDLINKS=$(pandoc $MDPATH | pup 'a[href*="nicovideo.jp/watch/"] attr{href}')
-	for VIDLINK in $VIDLINKS ; do
-		$DL $VIDLINK -o $VIDEO_OUTPUT 2>>error
+	for (( i=0; i<${#IMAGELINKS[@]}; ++i)); do
+		wget \
+			-A "$UA" \
+			--no-verbose \
+			--no-directories \
+			--no-clobber \
+			--span-hosts \
+			--execute='robots=off' \
+			--output-document="$IMAGE_DIR/${IMAGENAMES[$i]}" \
+			"${IMAGELINKS[$i]}"
 	done
 }
 
-function derepo_image(){
-	DEREOP_IMG_DIR="$IMAGE_DIR/derepo"
-	mkdir -p $DEREOP_IMG_DIR
-	
-	# TODO: タイムスタンプを返してくれないので、毎回ダウンロードしてしまう
-	# stat
-	wget -N -nd -P $DEREOP_IMG_DIR $(./derepo/get_img_path.sh)
+video(){
+	mkdir -p "$VIDEO_DIR"
+	VIDLINKS=$(pandoc "$MDPATH" | pup 'a[href*="youtube.com/watch"], a[href*="/video/1"] attr{href}')
+	#$VIDEO_DL "${VIDLINKS[@]}" -o "$VIDEO_OUTPUT" 2>error
+	$VIDEO_DL $VIDLINKS -o "$VIDEO_OUTPUT" 2>error
+
+	#VIDLINKS=$(pandoc $MDPATH | pup 'a[href*="nicovideo.jp/watch/"] attr{href}')
+	#for VIDLINK in "${VIDLINKS[@]}" ; do
+	#	$VIDEO_DL "$VIDLINK" -o "$VIDEO_OUTPUT" 2>>error
+	#done
+}
+
+derepo_image(){
+	mkdir -p "$DEREOP_IMG_DIR"
+
+	IMAGELINKS=($(./derepo/get_img_path.sh))
+	for link in ${IMAGELINKS[@]}; do
+		wget \
+			-A "$UA" \
+			--no-verbose \
+			--no-directories \
+			--no-clobber \
+			--span-hosts \
+			--execute='robots=off' \
+			--output-document="$DEREOP_IMG_DIR/${link##*/}" \
+			"$link"
+	done
 }
 
 #image
-#video
+video
 #derepo_image
