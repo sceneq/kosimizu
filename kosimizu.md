@@ -201,6 +201,7 @@ $$('#unitTbl > .unit').map(s => {
 - [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 12 命燃やして恋せよ乙女](http://columbia.jp/idolmaster/COCC-17152.html) Lunatic Show
 - [THE IDOLM@STER CINDERELLA MASTER イリュージョニスタ！](http://columbia.jp/idolmaster/imasnews/180202.html) イリュージョニスタ！(M＠STER VERSION),イリュージョニスタ！（GAME VERSION）
 - [THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! いとしーさー♥](http://columbia.jp/prod-info/COCC-17501/)
+- [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 22 双翼の独奏歌](http://columbia.jp/idolmaster/COCC-17512.html) ハピガ！
 
 
 # グッズ
