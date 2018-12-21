@@ -72,6 +72,13 @@ $$('#unitTbl > .unit').map(s => {
 - テレビ放送 第12話 水着の回② -- カワイイは隠せない
 - テレビ放送 第20話 ユニットの回  -- ピトォ…,次回予告
 - テレビ放送 第27話 本気の勝負だ！の回 -- 全編,次回予告
+- テレビ放送 第29話 -- 楽しい遊園地
+- テレビ放送 第30話 -- 特訓なんだよねー
+- しんげき3rd SEASON BD・DVD第3巻 メロメロの回 -- 愛されるプロ
+
+## シンデレラガールズ劇場 わいど☆
+- 23 七夕
+- 50 ハロウィン
 
 ## CM
 - [メッセージ 30秒](http://www.nicovideo.jp/watch/sm21111419)
@@ -86,6 +93,7 @@ $$('#unitTbl > .unit').map(s => {
 - シンデレラガールズ劇場 単行本描き下ろし 1-3 ボクのチェックは厳しいですよ！
 - シンデレラガールズ劇場 単行本描き下ろし 2-1 さがしてみよう
 - シンデレラガールズ劇場 単行本描き下ろし 7-3 たまには…いいです
+- U149 第38～41話 バンジー
 
 ## アイドルマスター シンデレラガールズ あんさんぶる!
 - ![あんさんぶる他シンデレラガールズのコミックス３種のゲーマーズ 連動購入特典Ｂ３ポスター](http://kura2.photozou.jp/pub/541/562541/photo/192971874_624.v1517634107.jpg)
@@ -161,14 +169,18 @@ $$('#unitTbl > .unit').map(s => {
 - [自称・ｶﾜｲｲ花嫁 思い出エピソード](https://www.youtube.com/watch?v=GpFCI1mXf8Y)
 - 自称・傾国の美女 ボイス?
 - [自称・傾国の美女 思い出エピソード](https://www.youtube.com/watch?v=II60Hj7KFqU)
+- 自称・楽園の宝石ボイス?
+- [自称・楽園の宝石 思い出エピソード](https://www.youtube.com/watch?v=c0sTSUnywMs)
 
-## イベント
-- [きらめくオーロラ紀行 - 藤原肇情報Wiki](http://seesaawiki.jp/hajimedear/d/%A4%AD%A4%E9%A4%E1%A4%AF%A5%AA%A1%BC%A5%ED%A5%E9%B5%AA%B9%D4)
-- [きらめくオーロラ紀行 - 輿水幸子wiki](http://wikiwiki.jp/5432sachiko/?%A4%AD%A4%E9%A4%E1%A4%AF%A5%AA%A1%BC%A5%ED%A5%E9%B5%AA%B9%D4%28%A5%A2%A5%A4%A5%D7%A5%ED%29)
-- [きらめくオーロラ紀行 - デーチＰの日記を主としたwiki](https://www63.atwiki.jp/dechip/pages/163.html)
+## アイドルプロデュース
+
+### きらめくオーロラ紀行
+- [藤原肇情報Wiki](http://seesaawiki.jp/hajimedear/d/%A4%AD%A4%E9%A4%E1%A4%AF%A5%AA%A1%BC%A5%ED%A5%E9%B5%AA%B9%D4)
+- [輿水幸子wiki](http://wikiwiki.jp/5432sachiko/?%A4%AD%A4%E9%A4%E1%A4%AF%A5%AA%A1%BC%A5%ED%A5%E9%B5%AA%B9%D4%28%A5%A2%A5%A4%A5%D7%A5%ED%29)
+- [デーチＰの日記を主としたwiki](https://www63.atwiki.jp/dechip/pages/163.html)
 
 ## アイテム
-- ![幸子が手作りした世界一カワイイチョコレート](https://pbs.twimg.com/media/C4T1ZbVVcAAJmbK.jpg)
+- ![幸子が手作りした世界一カワイイチョコレート](https://pbs.twimg.com/media/Ca1rg3VVIAEdts-.jpg)
 - TODO
 
 ## 未分類
@@ -247,6 +259,7 @@ $$('#unitTbl > .unit').map(s => {
 - ![[イリュージョニスタ ! ]佐久間まゆ](http://imas.gamedbs.jp/cgss/images/TMu1HAqkHBFqtTs2aIlLXXbesbQEKj4qDCLkgYJQ-ps.jpg)
 - ![[イリュージョニスタ ! ]鷺沢文香＋](http://imas.gamedbs.jp/cgss/images/d6rZkSm0JNqlCI4ZgqtILoB4XWc9sbIe0putFrb0X5c.jpg)
 - ![[メリー・メリー・ホワイト]緒方智絵里](http://imas.gamedbs.jp/cgss/images/771-Yc2ufpmakHvEzcY9n5Uwcs07WX9LrxLHamjK4XM.jpg)
+- ![[ミラクルホーリーナイト]イヴ・サンタクロース](http://imas.gamedbs.jp/cgss/images/wnbDbK4fRJKuDNGcFQTPWcqEqdBint3r3yQieMJzYgI.jpg)
 
 
 
