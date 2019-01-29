@@ -135,6 +135,9 @@ $$('#unitTbl > .unit').map(s => {
 - [32.Full Metal Soul](http://www.nicovideo.jp/watch/sm29761611)
 - [45.Kawaii or Lesson?](http://www.nicovideo.jp/watch/sm31470156)
 
+## 営業コミュ
+- カワイイ鍋と142's
+
 ## MV
 - [イリュージョニスタ！(3Dリッチ)](http://www.nicovideo.jp/watch/sm31841894)
 - [パステルピンクな恋](http://www.nicovideo.jp/watch/sm28044656)
