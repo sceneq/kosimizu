@@ -79,6 +79,7 @@ $$('#unitTbl > .unit').map(s => {
 ## シンデレラガールズ劇場 わいど☆
 - 23 七夕
 - 50 ハロウィン
+- 105 プリクラ
 
 ## CM
 - [メッセージ 30秒](http://www.nicovideo.jp/watch/sm21111419)
@@ -263,6 +264,7 @@ $$('#unitTbl > .unit').map(s => {
 - ![[イリュージョニスタ ! ]鷺沢文香＋](http://imas.gamedbs.jp/cgss/images/d6rZkSm0JNqlCI4ZgqtILoB4XWc9sbIe0putFrb0X5c.jpg)
 - ![[メリー・メリー・ホワイト]緒方智絵里](http://imas.gamedbs.jp/cgss/images/771-Yc2ufpmakHvEzcY9n5Uwcs07WX9LrxLHamjK4XM.jpg)
 - ![[ミラクルホーリーナイト]イヴ・サンタクロース](http://imas.gamedbs.jp/cgss/images/wnbDbK4fRJKuDNGcFQTPWcqEqdBint3r3yQieMJzYgI.jpg)
+- ![[あんず色の青春]双葉杏](http://imas.gamedbs.jp/cgss/images/vdg-UxAxBmIrZAaRXZJjK6I3jSqzUBCdJcErOCJWg7g.jpg)
 
 
 
